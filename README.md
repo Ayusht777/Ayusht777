@@ -7,5 +7,4 @@ Here are some ideas to get you started:
 - ⚡ I love Programming,Real Life Problem's
 
 -:page_with_curl: I want to learn new technologies and want to experience various fields in computers.
-
-<img src="https://myreadme.vercel.app/api/embed/Ayusht777?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+[![Ayusht777](https://github-readme-stats.vercel.app/api?username=Ayusht777\&show_icons=true\&theme=great-gatsby#gh-dark-mode-only)]()
