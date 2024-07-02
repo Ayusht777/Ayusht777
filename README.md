@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 [![Ayusht777](https://github-readme-stats.vercel.app/api?username=Ayusht777\&show_icons=true\&theme=great-gatsby#gh-dark-mode-only)]()
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusht777&" alt="ayusht777" /></p>
+
 Feel free to connect and explore together! 🚀✨
