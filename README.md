@@ -5,13 +5,13 @@ Welcome to my GitHub space. Here's a bit about me:Hi there 👋
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning Typescript.
-- :scroll: I Have Learned C,C++,PYTHON,JS.
+- :scroll: I Have Learned C,C++,PYTHON,JS,TS.
 - ⚡ I love Programming,Real Life Problem's
 
 #### Skills:
 
-- 💻 Programming Languages: C, C++, Python, JavaScript
-- 🚀 Technologies: React, Tailwind CSS, SCSS, HTML, CSS
+- 💻 Programming Languages: C, C++, Python, JavaScript, Typescript
+- 🚀 Technologies: React, Shadcn UI, Tailwind CSS, SCSS, HTML, CSS
 - 🌐 Web Development: Front-end technologies, responsive design
 - 📚 Continuous Learner: Eager to explore and master new technologies
 
