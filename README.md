@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there! 👋 ![](https://komarev.com/ghpvc/?username=ayusht777&color=dc143c)
 
 Welcome to my GitHub space. Here's a bit about me:Hi there 👋
 
