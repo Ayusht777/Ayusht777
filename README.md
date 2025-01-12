@@ -4,7 +4,7 @@ Welcome to my GitHub space. Here's a bit about me:Hi there 👋
 
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning Fullstack dev.
 - :scroll: I Have Learned C,C++,PYTHON,JS,TS.
 - ⚡ I love Programming,Real Life Problem's
 
